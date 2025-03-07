@@ -1,0 +1,6 @@
+MongoUri = "mongodb+srv://shukladivyansh953:sxxDwR6CsCB9WbYc@j4e.rrdgwlw.mongodb.net/?retryWrites=true&w=majority&appName=J4E"
+Cohere = "T2sEm7YCnRYPhfa73bBmMyJs1ZKhWBCM5go5ToA6"
+HuggingFace = "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"
+OpenAI = "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"
+Groq = "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"
+GEMINI_API_KEY = "AIzaSyCK0d3bnWmA6LPJeHa4vpbZ5HdK2LZd3xI"
