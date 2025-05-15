@@ -19,7 +19,7 @@ class ChatModel:
             temperature = 0.7,
             system_prompt = self.system_prompt,
             max_tokens = 4096,
-            api_key="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"
+            api_key="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"
         )
     
     def dateTime(self) -> str:
