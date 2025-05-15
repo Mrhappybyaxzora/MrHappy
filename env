@@ -1,6 +1,6 @@
 MongoUri = "mongodb+srv://shukladivyansh953:sxxDwR6CsCB9WbYc@j4e.rrdgwlw.mongodb.net/?retryWrites=true&w=majority&appName=J4E"
 Cohere = "T2sEm7YCnRYPhfa73bBmMyJs1ZKhWBCM5go5ToA6"
 HuggingFace = "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"
-OpenAI = "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"
+OpenAI = "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"
 Groq = "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"
 GEMINI_API_KEY = "AIzaSyCK0d3bnWmA6LPJeHa4vpbZ5HdK2LZd3xI"
