@@ -19,7 +19,7 @@ class CamGPTModel:
             temperature = 0.7,
             systemPrompt = self.system_prompt,
             maxTokens = 4096,
-            apiKey=Keys["OpenAI"]
+            apiKey="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"
         )
     
     def dateTime(self) -> str:
